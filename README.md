@@ -10,7 +10,7 @@
   <img align="center" alt="CSS" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="20" width="30"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="gif" height="250"src="https://i.picasion.com/pic91/81fd19920cae1661b833c83baa87e764.gif">
+  <img align="right" alt="gif" height="200" src="https://i.picasion.com/pic91/81fd19920cae1661b833c83baa87e764.gif">
  </div>
   
  ##
