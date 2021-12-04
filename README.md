@@ -1,5 +1,5 @@
 ### Oii! Eu sou a Liz 👾
-Estudando para ser programadora e estudante de design por hobby. As vezes faço uns joguinhos. <br>
+Estudando para ser programadora e aluna de design por hobby. Às vezes, faço uns joguinhos. <br>
 Viciada em fazer cursos e leitura. Amante da ciência.
 <br>
 <div align = center>
