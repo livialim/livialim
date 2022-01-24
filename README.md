@@ -8,7 +8,7 @@ Viciada em fazer cursos e leitura. Amante da ciência.
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=livialim&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="right" alt="gif" height="190" src="https://i.picasion.com/pic91/6d67ae31d108ecbb8e94666301b349f6.gif">
+  <img align="right" alt="gif" height="190" src="https://64.media.tumblr.com/4616f37446e226a63bd0742f37a14c8a/tumblr_ne84wxRwpw1sr1r7zo1_500.gif">
 </div>
   
 <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
