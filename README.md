@@ -8,7 +8,7 @@ Viciada em fazer cursos e leitura. Amante da ciência.
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=livialim&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="right" alt="gif" height="190" src="https://64.media.tumblr.com/4616f37446e226a63bd0742f37a14c8a/tumblr_ne84wxRwpw1sr1r7zo1_500.gif">
+  <img align="right" alt="gif" height="190" src="https://64.media.tumblr.com/e42b065f1b25cdc0236ae4be08ba4625/5501940238be3fdf-e9/s500x750/447c258c6780f647e4befe60cf67e94b01af4c51.gif">
 </div>
   
 <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,7 +20,7 @@ Viciada em fazer cursos e leitura. Amante da ciência.
 <img align="center" alt="illustrator" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/illustrator/illustrator-line.svg">
 
   
-<img width="75%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" /> 
+<img width="55%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" /> 
 
 <div>
   <a href="https://instagram.com/liviaadl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
