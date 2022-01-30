@@ -4,11 +4,10 @@ Viciada em fazer cursos e leitura. Amante da ciência.
 <br>
 <div align = center>
   <a href="https://github.com/livialim">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=livialim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=livialim&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="right" alt="gif" height="190" src="https://64.media.tumblr.com/e42b065f1b25cdc0236ae4be08ba4625/5501940238be3fdf-e9/s500x750/447c258c6780f647e4befe60cf67e94b01af4c51.gif">
+  <img align="right" alt="gif" height="180" src="https://64.media.tumblr.com/e42b065f1b25cdc0236ae4be08ba4625/5501940238be3fdf-e9/s500x750/447c258c6780f647e4befe60cf67e94b01af4c51.gif">
 </div>
   
 <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
