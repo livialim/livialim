@@ -10,7 +10,8 @@ Viciada em fazer cursos e leitura. Amante da ciência.
 <div style="display: inline_block"><br>
   <img align="right" alt="gif" height="140" src="https://64.media.tumblr.com/e42b065f1b25cdc0236ae4be08ba4625/5501940238be3fdf-e9/s500x750/447c258c6780f647e4befe60cf67e94b01af4c51.gif">
 </div>
-  
+
+<div style="display: inline_block"><br>  
 <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -18,7 +19,7 @@ Viciada em fazer cursos e leitura. Amante da ciência.
 <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
 <img align="center" alt="protoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/photoshop/photoshop-line.svg">
 <img align="center" alt="illustrator" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/illustrator/illustrator-line.svg">
-
+</div>
   
 <img width="50%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" /> 
 
